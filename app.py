@@ -386,15 +386,13 @@ with col_summary:
         plot_bgcolor="rgba(0,0,0,0)",
     )
 
-    col_bar, _ = st.columns([3, 1])
-    with col_bar:
-        st.caption(
-            f"Dinamika Tutupan Hutan ({sub_heading}): Sisa Terjaga vs Hilang (Baseline 2000: {format_ha(cur_extent)})",
-            help="Membandingkan sisa tutupan pohon yang masih bertahan hingga 2025 terhadap baseline tutupan awal tahun 2000 berbasis citra satelit resolusi 30 meter.",
-        )
-        st.plotly_chart(fig_bio, width="stretch", config={"displayModeBar": False})
+    st.caption(
+        f"Dinamika Tutupan Hutan ({sub_heading}): Sisa Terjaga vs Hilang (Baseline 2000: {format_ha(cur_extent)})",
+        help="Membandingkan sisa tutupan pohon yang masih bertahan hingga 2025 terhadap baseline tutupan awal tahun 2000 berbasis citra satelit resolusi 30 meter.",
+    )
+    st.plotly_chart(fig_bio, width="stretch", config={"displayModeBar": False})
 
-    st.markdown("---")
+st.markdown("---")
 
 # ==============================================================================
 # TAB UTAMA: DASHBOARD (VISUALISASI) vs TOOLS (PREDIKSI & SIMULASI)

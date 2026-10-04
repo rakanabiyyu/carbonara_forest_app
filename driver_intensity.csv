@@ -1,0 +1,31 @@
+segment,driver,Mg_CO2e_per_ha
+All,Hard commodities,0.0
+All,Logging,1802.5853365956484
+All,Other natural disturbances,0.0
+All,Permanent agriculture,651.7806900813684
+All,Settlements & Infrastructure,0.0
+All,Shifting cultivation,139.70646947168325
+All,Wildfire,1174.8791745581384
+Density low,Hard commodities,0.0
+Density low,Logging,2027.2567877156323
+Density low,Other natural disturbances,0.0
+Density low,Permanent agriculture,687.2305305543506
+Density low,Settlements & Infrastructure,0.0
+Density low,Shifting cultivation,0.0
+Density low,Wildfire,1221.5977741859165
+Density mid,Hard commodities,0.0
+Density mid,Logging,1867.156747345748
+Density mid,Other natural disturbances,0.0
+Density mid,Permanent agriculture,615.819963198059
+Density mid,Settlements & Infrastructure,0.0
+Density mid,Shifting cultivation,166.57871142084628
+Density mid,Wildfire,1139.8616792035546
+Density high,Hard commodities,356.04388191489585
+Density high,Logging,1000.378800890812
+Density high,Other natural disturbances,545.0469781351688
+Density high,Permanent agriculture,660.0507505251004
+Density high,Settlements & Infrastructure,2045.3561997586792
+Density high,Shifting cultivation,550.4244423904049
+Density high,Wildfire,1003.0665850777899
+Primary vs non-primary,Primary forest loss,1170.250453134743
+Primary vs non-primary,Non-primary loss,629.3093901681442

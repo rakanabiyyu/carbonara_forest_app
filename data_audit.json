@@ -1,0 +1,11 @@
+{
+  "kabupaten_carbon": 497,
+  "kabupaten_drivers": 494,
+  "rows_panel": 12425,
+  "rows_without_driver_record": 483,
+  "driver_sum_vs_tc_loss_ratio": 0.9983264237499027,
+  "national_gross_Mt_yr": 943.49585,
+  "national_removals_Mt_yr": 594.417361,
+  "national_net_Mt_yr": 349.078478,
+  "n_net_sink": 308
+}

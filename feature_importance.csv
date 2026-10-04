@@ -1,0 +1,28 @@
+Feature,Importance
+total_loss_ha,0.34671429100347995
+gfw_aboveground_carbon_stocks_2000__Mg_C,0.044370681688419414
+hist_intensity,0.019606344807601928
+area_ha,0.016774801115521543
+remaining_extent_ha,0.013533438860495364
+potential_co2e,0.0044803694474782885
+remaining_frac,0.004076803561467696
+agri_loss_ratio,0.0008862346713096464
+hist_intensity_x_loss,0.0008362676528746865
+avg_gfw_aboveground_carbon_stocks_2000__Mg_C_ha-1,0.0005759917081237798
+Hard commodities,0.00027118313155589935
+primary_loss_ha,0.00012858366849041736
+Settlements & Infrastructure,8.673640456850762e-05
+Other natural disturbances,5.226160877559727e-05
+Shifting cultivation,2.6356919692924197e-05
+wildfire_ratio,1.7124005941587805e-05
+year,0.0
+Wildfire,-2.34878020074214e-05
+Logging,-0.00014436685509508496
+primary_share,-0.0001562818034380048
+Permanent agriculture,-0.0003134800622315165
+loss_extent_ratio,-0.0007723602266576229
+cum_loss_prior_ha,-0.0015890917618202882
+loss_remaining_ratio,-0.0016673866895624
+umd_tree_cover_extent_2000__ha,-0.0017479411718339805
+remaining_carbon_Mg_C,-0.004150316377323299
+forest_cover_frac,-0.007527546678186545

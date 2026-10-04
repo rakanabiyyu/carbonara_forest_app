@@ -41,25 +41,21 @@ temp/
 scratch/
 
 # ==============================================================================
-# Raw Data & Development Files (Excluded from Streamlit Cloud Deployment)
+# Research & Development Folder (Excluded from Streamlit Cloud Deployment)
 # ==============================================================================
-# Raw source dataset (not needed for deployment, saves ~4 MB)
+research/
 IDN.xlsx
 
-# Research notebooks & Conda config
+# Fallback explicit exclusions
 *.ipynb
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 environment.yml
-
-# Training audits, metrics & offline feature analysis
 data_audit.json
 kabupaten_static.csv
 metrics.json
 feature_importance.csv
 feature_importance.png
 shap_driver.png
-
-# Internal developer guides & methodology documentation
 ANALISIS_METODOLOGI_DAN_REVIEW_PROYEK.md
 PANDUAN_TEORI_LOBMA_DAN_APP.md

@@ -100,7 +100,6 @@ Aplikasi akan otomatis terbuka di browser pada alamat `http://localhost:8501`.
 ├── pareto.csv                       # Analisis kontribusi kumulatif emisi per wilayah
 ├── intensity_hotspots.csv           # Wilayah terindikasi emisi gambut dalam ekstrem
 ├── anomalies.csv                    # Deteksi kejadian lonjakan emisi anomali historis
-├── kabupaten_static.csv             # Data statis referensi kabupaten/kota
 ├── driver_intensity.csv             # Koefisien intensitas emisi per pemicu
 └── shap_driver.csv                  # Nilai kontribusi pemicu (SHAP analysis)
 ```
